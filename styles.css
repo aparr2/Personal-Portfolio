@@ -1,0 +1,207 @@
+nav ul {
+  padding: 10px;
+  display: flex;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: baseline;
+  background: #5a5e99;
+  margin: 0;
+  border: 1px solid black;
+  padding-left: 0px;
+  width: auto;
+}
+nav ul dt a {
+  padding: 10px;
+  padding-left:20px;
+  padding-right:20px;
+  background:  #5a5e99;
+  text-decoration: none;
+}
+
+nav ul dt a:hover {
+  background-color: lightblue;
+}
+body {
+    padding: 0;
+    margin: 0;
+    background: rgb(255, 255, 255);
+    font-family: "Didot", serif;
+
+}
+    /* --------------
+    Links   
+    ------------------*/
+    a{
+      color: rgb(196, 150, 64);
+    }
+    a:hover {
+      color: rgb(196, 150, 64);
+      text-decoration: none;
+    }
+    a:visited {
+      color: rgb(196, 150, 64);
+    }
+    a:active {
+      color: red;
+    }
+    a:focus {
+      background: 2px solid #3a3d63;
+    }
+    /* --------------
+    header, footer 
+    ------------------*/
+    header,footer {
+      background: #3a3d63;
+      margin: 0;
+    }
+    h1,h2,h3,h4,h5,h6{
+      color: rgb(153, 116, 116);
+    }
+    h1, h2, h3, h4, h5, h6, p{
+      padding: 10px;
+      margin: 0px;
+    }
+
+    .title{
+      color: rgb(238, 209, 209);
+      padding: 10px;
+      font-size: 50px;
+      padding-left: 3%;
+    }
+    h2{
+    font-size: 35px;
+    }
+    .sub_h2{
+      font-size: 20px;
+      color: rgb(184, 142, 142);
+    
+    }
+
+
+
+    
+    /* --------------
+    here
+    ------------------*/
+    .blog_title{
+      color: #91638e;
+      font-family: Georgia, "Times New Roman",serif;
+    }
+    .blog_subtitle {
+      color: rgb(211, 164, 76);
+    }
+    .blog_t{
+      color: #91638e;
+      font-family: Georgia, "Times New Roman",serif;
+      padding-left: 10%;
+      padding-right: 10%;
+    }
+    .blog_subt {
+      color: rgb(211, 164, 76);
+      padding-left: 10%;
+      padding-right: 10%;
+    }
+    /* --------------
+    here
+    ------------------*/
+
+
+
+
+
+    .logo {
+    display: block;
+      margin-right: auto;
+    margin-left: auto;
+    }
+    .book {
+      vertical-align: text-top;
+      padding-right: 8px;
+      padding-left: 10%;
+      padding-bottom: 0%;
+      padding-top: 14px;
+    }
+    .personal{
+      padding-left: 8px;
+      padding-right: 10%;
+    }
+
+    .jobs{
+      background: rgba(247, 243, 243, 0.685);
+      padding-left: 20px;
+      padding-right: 20px;
+      border: 1px solid rgb(199, 172, 172);
+      margin: 40px;
+      width: 700px;
+      height: 250px;
+      display: flex;
+      flex-wrap: nowrap;
+      align-items: center;
+      justify-content: baseline;
+    }
+    .blog_title{
+      display: flex;
+      align-items: center;
+    }
+    section.blogs{
+      background: rgba(247, 243, 243, 0.685);
+      border: 1px solid rgb(199, 172, 172);
+      margin: 40px;
+      width: 700px;
+      height: 210px;
+      padding: 10px;
+      display: flex;
+      flex-wrap: nowrap;
+      align-items: center;
+    justify-content: none; 
+    }
+    .read_more{
+      padding: 10px;
+      display: flex;
+      flex-wrap: nowrap;
+      align-items: center;
+      justify-content: none;
+    }
+    html {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(230, 228, 228);  
+    }
+    body {
+    width: 85%;
+      margin: 0 auto;
+      background: rgb(255, 253, 253);
+      border-bottom: 8px solid rgb(138, 116, 153);
+    }
+    .homepage{
+    height: 25px;
+    padding-left: 10%;
+    padding-right: 10%;
+    }
+
+    .sub_h2{
+      height: 40px;
+      padding-left: 10%;
+      padding-right: 10%;
+    }
+    h3{
+      height:15px;
+    }
+    .text{
+      padding-left: 10%;
+      padding-right: 10%;
+    }
+    .group{
+      padding-left: 10%;
+      padding-right: 10%;
+      padding-bottom: .5px;
+    }
+    .page_title{
+      padding-left: 10%;
+      padding-right: 10%;
+    }
+    .boxed{
+      padding-left: 7%;
+      padding-right: 10%;
+    }
+    
